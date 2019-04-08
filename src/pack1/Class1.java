@@ -11,6 +11,8 @@ public class Class1 {
         System.out.println("Second changes dones");
         System.out.println("Second changes dones");
         System.out.println("Second changes dones");
+        
+        System.out.println("This change was made to DEVELOP branch");
 	}
 
 }
