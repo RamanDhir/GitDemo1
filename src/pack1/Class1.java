@@ -8,7 +8,9 @@ public class Class1 {
 		System.out.println("CHANGES 1 MADE after cloning");
 		System.out.println("CHANGES 2 MADE after cloning");
 
-
+        System.out.println("Second changes dones");
+        System.out.println("Second changes dones");
+        System.out.println("Second changes dones");
 	}
 
 }
